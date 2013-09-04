@@ -1,0 +1,20 @@
+http://www.buttonbeats.com/editor.html
+
+G scale
+c 3 4 n m n 4 3 c
+
+ah-no   <speed> 600
+
+low to high  D2-G4
+x xc3bnb3cx   c c34nmn43c   v vbn5,5nbv   b bnm,.,mnb   n nm6./.6mn   m m67/8/76m   , ,./asa/.,   . ./8sds8/.   / /89dfd98/   a asd0g0dsa   s sdfghgfds   d df!hjh!fd   f f!@j#j@!f   g ghjklkjhg
+
+high to low  G4-D2
+g ghjklkjhg   f f!@j#j@!f   d df!hjh!fd   s sdfghgfds   a asd0g0dsa   / /89dfd98/   . ./8sds8/.   , ,./asa/.,   m m67/8/76m   n nm6./.6mn   b bnm,.,mnb   v vbn5,5nbv   c c34nmn43c   x xc3bnb3cx  
+
+extras above what I can do
+hj#lql#jh   j#$qwq$#j 
+
+
+
+zinger zinger zoom  <speed> 300
+xxxx3 bbbbm nnnnbbccx    cccc4 nnnn6 mmmmnn33c    vvvvn 5555. ,,,,55bbv    bbbbm ,,,,/ ....,,nnb    NNNN6 ....8 ////..MMN    MMMM7 ////9 8888//66M    ,,,,/ AAAAD SSSSAA..,    ....8 SSSSF DDDDSS//.    ////9 DDDD! FFFFDD88/    AAAAD 0000H GGGG00SSA    SSSSF GGGGJ HHHHGGDDS    DDDD! HHHH# JJJJHHFFD
