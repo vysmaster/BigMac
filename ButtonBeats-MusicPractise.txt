@@ -1,5 +1,7 @@
 http://www.buttonbeats.com/editor.html
 
+test message to play with git
+
 G scale
 c 3 4 n m n 4 3 c
 
